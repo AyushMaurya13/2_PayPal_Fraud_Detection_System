@@ -200,8 +200,8 @@ For support and questions:
 ## � Contact
 
 ### 👨‍💻 Developer Information
-- **Project Maintainer**: PayPal Fraud Detection Team
-- **Email**: fraud-detection@paypal-ml.com
+- **Project Maintainer**: Ayush Kumar Maurya
+- **Email**: ayushmaurya01@gmail.com
 - **LinkedIn**: [Connect with our team](https://www.linkedin.com/in/ayush-kumar-maurya-a43914258/)
 - **Twitter**: [Profile](https://x.com/ayush_maur10241)
 - **GitHub**: [Follow our repositories](https://github.com/AyushMaurya13)
