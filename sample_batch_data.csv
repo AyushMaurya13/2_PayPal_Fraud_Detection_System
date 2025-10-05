@@ -1,0 +1,11 @@
+transaction_id,user_id,amount,transaction_type,account_age_days,country,device_type,ip_address_risk,time_of_day,num_prev_transactions,avg_transaction_value,is_foreign_transaction,is_high_risk_country,is_vpn_used,login_attempts,device_trust_score,payment_gateway,browser_fingerprint_score,session_duration_sec
+TXN20001,U5001,25.50,Payment,365,USA,Mobile,15,Morning,120,85.30,0,0,0,1,85,PayPal,25,450
+TXN20002,U5002,1500.00,Transfer,30,Nigeria,Desktop,95,Night,5,200.00,1,1,1,8,10,Stripe,90,45
+TXN20003,U5003,75.25,Bill Payment,1200,Canada,Tablet,25,Afternoon,350,150.00,0,0,0,2,75,Square,35,720
+TXN20004,U5004,500.00,Withdrawal,45,China,Mobile,85,Evening,8,100.00,1,0,1,6,20,Razorpay,80,120
+TXN20005,U5005,12.99,Payment,800,UK,Desktop,10,Morning,450,45.50,0,0,0,1,90,PayPal,15,600
+TXN20006,U5006,2500.00,Deposit,15,Brazil,Mobile,75,Night,2,50.00,1,1,1,9,5,Stripe,95,30
+TXN20007,U5007,199.99,Payment,2000,Germany,Tablet,20,Afternoon,800,125.00,0,0,0,1,88,Square,28,900
+TXN20008,U5008,50.00,Transfer,90,India,Desktop,60,Evening,25,75.00,1,0,0,4,45,PayPal,65,200
+TXN20009,U5009,350.00,Bill Payment,500,Australia,Mobile,30,Morning,200,180.00,0,0,0,2,70,Razorpay,40,550
+TXN20010,U5010,1000.00,Withdrawal,10,France,Desktop,90,Night,1,25.00,1,1,1,7,15,Stripe,85,60
